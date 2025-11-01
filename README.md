@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Ali Obeidat</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Ali</span></h1>
 
 <p align="center">
   💻 <b>Frontend Developer | React & UI Enthusiast</b><br>
