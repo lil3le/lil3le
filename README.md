@@ -1,8 +1,3 @@
-<!-- 🌌 Animated Background Banner -->
-<p align="center">
-  <img src="https://github.com/lil3le/lil3le/blob/main/assets/eye.gif" width="100%" alt="starry background"/>
-</p>
-
 <!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+UI+Enthusiast" alt="Typing SVG" />
