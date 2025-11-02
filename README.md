@@ -1,6 +1,6 @@
 <!-- 🌌 Animated Background Banner -->
 <p align="center">
-  <img src="https://i.gifer.com/origin/4b/4b6f4e2e5ee1bfcbd37ad395aa2a47de_w200.gif" width="100%" alt="starry background"/>
+  <img src="https://github.com/lil3le/lil3le/blob/main/assets/eye.gif" width="100%" alt="starry background"/>
 </p>
 
 <!-- Animated Typing Header -->
@@ -33,11 +33,6 @@
   🌍 Based in Jordan
 </p>
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://github.com/lil3le/lil3le/blob/main/assets/line.gif?raw=true" width="80%" alt="divider" style="opacity:0.9;filter:drop-shadow(0 0 6px #E3E6EC);" />
-</p>
-
 <h2>⚙️ About Me</h2>
 
 <p>
@@ -49,21 +44,11 @@ I enjoy transforming designs into functional interfaces and constantly improving
 Currently, I’m expanding into full-stack development and exploring <b>React Three Fiber</b> to build an interactive 3D portfolio experience.
 </p>
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://github.com/lil3le/lil3le/blob/main/assets/line.gif?raw=true" width="80%" alt="divider" style="opacity:0.9;filter:drop-shadow(0 0 6px #E3E6EC);" />
-</p>
-
 <h2>🧠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,dart,figma" /><br>
   <img src="https://skillicons.dev/icons?i=cpp,php,postgres,git,github,vscode" />
-</p>
-
-<!-- Divider -->
-<p align="center">
-  <img src="https://github.com/lil3le/lil3le/blob/main/assets/line.gif?raw=true" width="80%" alt="divider" style="opacity:0.9;filter:drop-shadow(0 0 6px #E3E6EC);" />
 </p>
 
 <h2>🚀 Projects</h2>
@@ -83,11 +68,6 @@ A full-stack tourism web app designed to help travelers explore destinations, bo
 > 💡 <i>Some UI elements have been refined — improved color palette and structure for smoother visual flow.</i>  
 > 📁 <b><a href="https://drive.google.com/drive/u/0/folders/1RyyrJ47o1UdvSrkWZAEdd-M4FQUsGM58">Google Drive Link to the UI before the refines</a></b>
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://github.com/lil3le/lil3le/blob/main/assets/line.gif?raw=true" width="80%" alt="divider" style="opacity:0.9;filter:drop-shadow(0 0 6px #E3E6EC);" />
-</p>
-
 <h2>🌱 Currently Learning</h2>
 
 <ul>
@@ -97,21 +77,12 @@ A full-stack tourism web app designed to help travelers explore destinations, bo
   <li>React Three Fiber & 3D Web Design</li>
 </ul>
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://github.com/lil3le/lil3le/blob/main/assets/line.gif?raw=true" width="80%" alt="divider" style="opacity:0.9;filter:drop-shadow(0 0 6px #E3E6EC);" />
-</p>
-
 <h2>📫 Connect with Me</h2>
+
 
 <p align="center">
   📧 <a href="mailto:aliobeidat266@gmail.com">aliobeidat266@gmail.com</a><br>
   💼 <a href="https://www.linkedin.com/in/ali-obeidat-4b259b245/">LinkedIn</a><br>
-</p>
-
-<!-- Divider -->
-<p align="center">
-  <img src="https://github.com/lil3le/lil3le/blob/main/assets/line.gif?raw=true" width="80%" alt="divider" style="opacity:0.9;filter:drop-shadow(0 0 6px #E3E6EC);" />
 </p>
 
 <h2>📊 GitHub Stats</h2>
