@@ -72,14 +72,6 @@ A full-stack tourism web app designed to help travelers explore destinations, bo
   <li>React Three Fiber & 3D Web Design</li>
 </ul>
 
-<h2>📫 Connect with Me</h2>
-
-
-<p align="center">
-  📧 <a href="mailto:aliobeidat266@gmail.com">aliobeidat266@gmail.com</a><br>
-  💼 <a href="https://www.linkedin.com/in/ali-obeidat-4b259b245/">LinkedIn</a><br>
-</p>
-
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
