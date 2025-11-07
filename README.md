@@ -43,7 +43,7 @@ Currently, I’m expanding into full-stack development and exploring <b>React Th
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,dart,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,php,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,cpp,php,postgres,git,github,vscode" />
 </p>
 
 <h2>🚀 Projects</h2>
