@@ -25,7 +25,8 @@
 <p align="center">
   💻 <b>Frontend Developer | React & UI Enthusiast</b><br>
   🎓 <b>B.Sc. Computer Science – Jordan University of Science and Technology</b><br>
-  🌍 Based in Jordan
+  🌍 Based in Jordan<br>
+  <a href="https://aliob.vercel.app/">Portfolio</a>
 </p>
 
 <h2>⚙️ About Me</h2>
