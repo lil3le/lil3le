@@ -25,7 +25,8 @@
 <p align="center">
   💻 <b>Frontend Developer | React & UI Enthusiast</b><br>
   🎓 <b>B.Sc. Computer Science – Jordan University of Science and Technology</b><br>
-  🌍 Based in Jordan
+  🌍 Based in Jordan<br>
+  <a href="https://aliob.vercel.app/">Portfolio</a>
 </p>
 
 <h2>⚙️ About Me</h2>
@@ -43,7 +44,7 @@ Currently, I’m expanding into full-stack development and exploring <b>React Th
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,dart,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,php,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,cpp,php,postgres,git,github,vscode" />
 </p>
 
 <h2>🚀 Projects</h2>
@@ -71,14 +72,6 @@ A full-stack tourism web app designed to help travelers explore destinations, bo
   <li>PHP and Database Integration</li>
   <li>React Three Fiber & 3D Web Design</li>
 </ul>
-
-<h2>📫 Connect with Me</h2>
-
-
-<p align="center">
-  📧 <a href="mailto:aliobeidat266@gmail.com">aliobeidat266@gmail.com</a><br>
-  💼 <a href="https://www.linkedin.com/in/ali-obeidat-4b259b245/">LinkedIn</a><br>
-</p>
 
 <h2>📊 GitHub Stats</h2>
 
